@@ -1,4 +1,4 @@
-# Swiggy_Company_All_Projects
+#Swiggy_Company_All_Projects
 Swiggy Insights: Restaurant Data Analysis
 This project conducts an exploratory data analysis (EDA) on Swiggy's sales data, focusing on restaurant ratings, cost distribution, and popular cuisines. Utilizing pandas and numpy, the analysis uncovers key insights about the dining trends across different cities, helping inform data-driven decisions for Swiggy and restaurant owners.
 
